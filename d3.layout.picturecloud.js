@@ -1,14 +1,3 @@
-/*
-pulire
-nuovo repo
-nuova struttura piu' mia
-citare jdavies per le spirali e il tutto
-area calcolata autom
-immagini
-
-togliere dipendenza da size e esporre parametri decenti per il piazzamento
-*/
-
 // Word cloud layout by Jason Davies, http://www.jasondavies.com/word-cloud/
 // Algorithm due to Jonathan Feinberg, http://static.mrfeinberg.com/bv_ch03.pdf
 (function(exports) {
