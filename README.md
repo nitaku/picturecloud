@@ -1,6 +1,6 @@
 # Picture Cloud Layout
 
-This is a word-cloud-like layout for displaying pictures instead of text, based on the beautiful [Word Cloud Layout](https://github.com/jasondavies/d3-cloud) by Jason Davies.
+This is a word-cloud-like layout for displaying pictures instead of text, based on the beautiful [Word Cloud Layout](https://github.com/jasondavies/d3-cloud) by Jason Davies. You can see a working example with commented code [here](http://bl.ocks.org/nitaku/6463881).
 
 The layout takes a list of image URLs as input. For each picture, a `weight` parameter must be provided, which identifies the "relevance" of the picture. The layout makes use of that information to scale the pictures, rendering the most relevant ones (high values of `weight`) as bigger images and the least relevant ones (low values of `weight`) as smaller images.
 
